@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Логово Бинария Котеевича - BoomGuy</title>
+      <link>https://bin-cat.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>ru</language>
+      <atom:link href="https://bin-cat.github.io/tags/boomguy/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>BoomGuy. Часть 2. Как страдали разработчики или хитрость из 1987</title>
+          <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bin-cat.github.io/posts/2024-04-10-boomguy-2/</link>
+          <guid>https://bin-cat.github.io/posts/2024-04-10-boomguy-2/</guid>
+          <description xml:base="https://bin-cat.github.io/posts/2024-04-10-boomguy-2/">&lt;p&gt;Железо в NES было слабенькое, поэтому разработчикам часто приходилось придумывать, как бы поэффективнее организовать свой код. И вот во внутренностях Bomberman я нактнулся на интересное, как мне показалось, место.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>BoomGuy. Часть 1. Вводная</title>
+          <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bin-cat.github.io/posts/2024-04-03-boomguy-1/</link>
+          <guid>https://bin-cat.github.io/posts/2024-04-03-boomguy-1/</guid>
+          <description xml:base="https://bin-cat.github.io/posts/2024-04-03-boomguy-1/">&lt;p&gt;Бывает иногда, что что-то как втемяшится в голову, итак и не избавишься от этого. Вот и на этот раз засела у меня мысль &quot;А почему бы мне не написать Бомбермена?&quot;. Казалось бы, что там сложного: ходит мужик по подвалу, производит перепланировку помещения с помощью взрывчатки, нейтрализует бомжей, грызунов и прочих вредителей, и пытается найти выход, чтобы пойти и дернуть пивка после тяжелого рабочего дня. Ан нет, при более детальном изучении оказалось, что данное произведение старинного игростроя еще может удивить.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

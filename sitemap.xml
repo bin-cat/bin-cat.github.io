@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://bin-cat.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/posts/2024-04-03-boomguy-1/</loc>
+        <lastmod>2024-04-03</lastmod>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/posts/2024-04-10-boomguy-2/</loc>
+        <lastmod>2024-04-10</lastmod>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/posts/2024-08-28-chaser/</loc>
+        <lastmod>2024-08-28</lastmod>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/tags/boomguy/</loc>
+    </url>
+    <url>
+        <loc>https://bin-cat.github.io/tags/games/</loc>
+    </url>
+</urlset>
